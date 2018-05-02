@@ -1,5 +1,5 @@
 # MyfirstGit
 
 I am HunTeR!!!!
-HELLO!!!
+HELLO!!!\n
 GOGOGO
